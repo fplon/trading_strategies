@@ -1,2 +1,2 @@
 # trading_strategies
-Initial trading strategies
+Testing ideas for trading strategies
